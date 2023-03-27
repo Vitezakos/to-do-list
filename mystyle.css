@@ -1,0 +1,41 @@
+#button {
+  background-color: #5e0887;
+  color: #fff;
+  border-radius: 12px;
+  width: 90px;
+  height: 33px;
+  font-size: 17px;
+  border-style: none;
+  border-width: 0px;
+}
+#input {
+  background-color: #c5bbe1;
+  color: #5e0887;
+  border-radius: 12px;
+  height: 33px;
+  width: 300px;
+  font-size: 17px;
+  border-color: #5e0887;
+  margin-bottom: 5px;
+}
+
+ul li {
+  background-color: #5e0887;
+  color: #fff;
+  height: 33px;
+  width: 300px;
+  font-size: 17px;
+  border-width: 0px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  margin-left: -40px;
+  position: relative;
+}
+
+.delete {
+  position: absolute;
+  border-color: red;
+  border-width: 3px;
+  right: 0;
+  top: 0;
+}
